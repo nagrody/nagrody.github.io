@@ -47,7 +47,7 @@
     "versionPublish": "4.12.4",
     "imageResize": true,
     "favicon": false,
-    "robotsSwitcher": true,
+    "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
