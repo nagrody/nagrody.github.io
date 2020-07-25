@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WYGRAJ BONY",
-    "currentPage": "odbierz.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -57,7 +57,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
-    "odbierz.html": {
+    "html.html": {
       "settings": {
         "main": true,
         "title": "Wygraj bon Rossman 200zł lub rok Netflixa",
